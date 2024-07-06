@@ -1,1 +1,1 @@
-this is info for 2 file from local
+this is info for 2 file from github
