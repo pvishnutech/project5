@@ -1,1 +1,1 @@
-this is info for file 1 from local laptop
+this is info for file 1 from remote github
