@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 this is info for file 1 from remote github url. 
+=======
+this is info for file 1 from remote GitHub local
+>>>>>>> Stashed changes
