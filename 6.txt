@@ -5,4 +5,8 @@ asdf
 asdf
 asdf
 f
+<<<<<<< Updated upstream
 changes from github
+=======
+changes from github
+>>>>>>> Stashed changes
