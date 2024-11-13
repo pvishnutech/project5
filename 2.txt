@@ -1,1 +1,2 @@
 this is info for 2 file from github
+info from 2.txt

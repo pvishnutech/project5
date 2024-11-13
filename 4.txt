@@ -1,1 +1,1 @@
-info from 4.txt file
+info for 4.txt
